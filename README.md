@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="wine.jpg" style="width: 50%;">
+</div>
+
 In this project, I worked with Kaggle's Red Wine Quality dataset to create classification models. The goal was to predict whether a red wine can be considered "good quality" or not. Each wine in the dataset is originally assigned a quality score ranging from 0 to 10. To simplify the task, I converted the scores into a binary output: wines with a score of 7 or higher were labeled as "good quality," while wines with a score below 7 were labeled as "not good quality." The classification models were built using 11 input variables that determine the wine's quality.
 
     Fixed acidity
